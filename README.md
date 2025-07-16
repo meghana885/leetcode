@@ -19,4 +19,8 @@ leetcode
 |  |
 | ------- |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/meghana885/leetcode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
+## Math
+|  |
+| ------- |
+| [0009-palindrome-number](https://github.com/meghana885/leetcode/tree/master/0009-palindrome-number) |
 <!---LeetCode Topics End-->
