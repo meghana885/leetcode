@@ -23,13 +23,20 @@ leetcode
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/meghana885/leetcode/tree/master/0009-palindrome-number) |
+| [0224-basic-calculator](https://github.com/meghana885/leetcode/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/meghana885/leetcode/tree/master/0227-basic-calculator-ii) |
 ## String
 |  |
 | ------- |
+| [0224-basic-calculator](https://github.com/meghana885/leetcode/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/meghana885/leetcode/tree/master/0227-basic-calculator-ii) |
 ## Stack
 |  |
 | ------- |
+| [0224-basic-calculator](https://github.com/meghana885/leetcode/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/meghana885/leetcode/tree/master/0227-basic-calculator-ii) |
+## Recursion
+|  |
+| ------- |
+| [0224-basic-calculator](https://github.com/meghana885/leetcode/tree/master/0224-basic-calculator) |
 <!---LeetCode Topics End-->
