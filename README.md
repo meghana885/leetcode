@@ -23,4 +23,13 @@ leetcode
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/meghana885/leetcode/tree/master/0009-palindrome-number) |
+| [0227-basic-calculator-ii](https://github.com/meghana885/leetcode/tree/master/0227-basic-calculator-ii) |
+## String
+|  |
+| ------- |
+| [0227-basic-calculator-ii](https://github.com/meghana885/leetcode/tree/master/0227-basic-calculator-ii) |
+## Stack
+|  |
+| ------- |
+| [0227-basic-calculator-ii](https://github.com/meghana885/leetcode/tree/master/0227-basic-calculator-ii) |
 <!---LeetCode Topics End-->
