@@ -6,6 +6,7 @@ leetcode
 ## Array
 |  |
 | ------- |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/meghana885/leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/meghana885/leetcode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 ## Two Pointers
 |  |
@@ -31,6 +32,7 @@ leetcode
 | ------- |
 | [0224-basic-calculator](https://github.com/meghana885/leetcode/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/meghana885/leetcode/tree/master/0227-basic-calculator-ii) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/meghana885/leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 ## Stack
 |  |
 | ------- |
@@ -41,4 +43,12 @@ leetcode
 | ------- |
 | [0050-powx-n](https://github.com/meghana885/leetcode/tree/master/0050-powx-n) |
 | [0224-basic-calculator](https://github.com/meghana885/leetcode/tree/master/0224-basic-calculator) |
+## Depth-First Search
+|  |
+| ------- |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/meghana885/leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+## Trie
+|  |
+| ------- |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/meghana885/leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 <!---LeetCode Topics End-->
