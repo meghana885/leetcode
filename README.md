@@ -6,6 +6,7 @@ leetcode
 ## Array
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/meghana885/leetcode/tree/master/0066-plus-one) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/meghana885/leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/meghana885/leetcode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 ## Two Pointers
@@ -26,6 +27,7 @@ leetcode
 | [0007-reverse-integer](https://github.com/meghana885/leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/meghana885/leetcode/tree/master/0009-palindrome-number) |
 | [0050-powx-n](https://github.com/meghana885/leetcode/tree/master/0050-powx-n) |
+| [0066-plus-one](https://github.com/meghana885/leetcode/tree/master/0066-plus-one) |
 | [0224-basic-calculator](https://github.com/meghana885/leetcode/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/meghana885/leetcode/tree/master/0227-basic-calculator-ii) |
 | [0273-integer-to-english-words](https://github.com/meghana885/leetcode/tree/master/0273-integer-to-english-words) |
