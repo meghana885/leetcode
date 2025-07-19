@@ -23,6 +23,7 @@ leetcode
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/meghana885/leetcode/tree/master/0009-palindrome-number) |
+| [0050-powx-n](https://github.com/meghana885/leetcode/tree/master/0050-powx-n) |
 | [0224-basic-calculator](https://github.com/meghana885/leetcode/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/meghana885/leetcode/tree/master/0227-basic-calculator-ii) |
 ## String
@@ -38,5 +39,6 @@ leetcode
 ## Recursion
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/meghana885/leetcode/tree/master/0050-powx-n) |
 | [0224-basic-calculator](https://github.com/meghana885/leetcode/tree/master/0224-basic-calculator) |
 <!---LeetCode Topics End-->
