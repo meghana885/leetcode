@@ -29,6 +29,7 @@ leetcode
 | [0043-multiply-strings](https://github.com/meghana885/leetcode/tree/master/0043-multiply-strings) |
 | [0050-powx-n](https://github.com/meghana885/leetcode/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/meghana885/leetcode/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/meghana885/leetcode/tree/master/0067-add-binary) |
 | [0224-basic-calculator](https://github.com/meghana885/leetcode/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/meghana885/leetcode/tree/master/0227-basic-calculator-ii) |
 | [0273-integer-to-english-words](https://github.com/meghana885/leetcode/tree/master/0273-integer-to-english-words) |
@@ -36,6 +37,7 @@ leetcode
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/meghana885/leetcode/tree/master/0043-multiply-strings) |
+| [0067-add-binary](https://github.com/meghana885/leetcode/tree/master/0067-add-binary) |
 | [0224-basic-calculator](https://github.com/meghana885/leetcode/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/meghana885/leetcode/tree/master/0227-basic-calculator-ii) |
 | [0273-integer-to-english-words](https://github.com/meghana885/leetcode/tree/master/0273-integer-to-english-words) |
@@ -63,4 +65,9 @@ leetcode
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/meghana885/leetcode/tree/master/0043-multiply-strings) |
+| [0067-add-binary](https://github.com/meghana885/leetcode/tree/master/0067-add-binary) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/meghana885/leetcode/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
