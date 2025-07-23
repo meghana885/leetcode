@@ -45,12 +45,14 @@ leetcode
 | [0273-integer-to-english-words](https://github.com/meghana885/leetcode/tree/master/0273-integer-to-english-words) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/meghana885/leetcode/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/meghana885/leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [1818-maximum-score-from-removing-substrings](https://github.com/meghana885/leetcode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/meghana885/leetcode/tree/master/2079-delete-duplicate-folders-in-system) |
 ## Stack
 |  |
 | ------- |
 | [0224-basic-calculator](https://github.com/meghana885/leetcode/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/meghana885/leetcode/tree/master/0227-basic-calculator-ii) |
+| [1818-maximum-score-from-removing-substrings](https://github.com/meghana885/leetcode/tree/master/1818-maximum-score-from-removing-substrings) |
 ## Recursion
 |  |
 | ------- |
@@ -88,4 +90,8 @@ leetcode
 |  |
 | ------- |
 | [1813-maximum-erasure-value](https://github.com/meghana885/leetcode/tree/master/1813-maximum-erasure-value) |
+## Greedy
+|  |
+| ------- |
+| [1818-maximum-score-from-removing-substrings](https://github.com/meghana885/leetcode/tree/master/1818-maximum-score-from-removing-substrings) |
 <!---LeetCode Topics End-->
