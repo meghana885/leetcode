@@ -6,6 +6,7 @@ leetcode
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/meghana885/leetcode/tree/master/0001-two-sum) |
 | [0066-plus-one](https://github.com/meghana885/leetcode/tree/master/0066-plus-one) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/meghana885/leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/meghana885/leetcode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
@@ -85,6 +86,7 @@ leetcode
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/meghana885/leetcode/tree/master/0001-two-sum) |
 | [1813-maximum-erasure-value](https://github.com/meghana885/leetcode/tree/master/1813-maximum-erasure-value) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/meghana885/leetcode/tree/master/2079-delete-duplicate-folders-in-system) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/meghana885/leetcode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
