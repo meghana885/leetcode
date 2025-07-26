@@ -7,6 +7,7 @@ leetcode
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/meghana885/leetcode/tree/master/0001-two-sum) |
+| [0049-group-anagrams](https://github.com/meghana885/leetcode/tree/master/0049-group-anagrams) |
 | [0066-plus-one](https://github.com/meghana885/leetcode/tree/master/0066-plus-one) |
 | [0217-contains-duplicate](https://github.com/meghana885/leetcode/tree/master/0217-contains-duplicate) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/meghana885/leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
@@ -27,6 +28,7 @@ leetcode
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/meghana885/leetcode/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/meghana885/leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/meghana885/leetcode/tree/master/0242-valid-anagram) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/meghana885/leetcode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
@@ -46,6 +48,7 @@ leetcode
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/meghana885/leetcode/tree/master/0043-multiply-strings) |
+| [0049-group-anagrams](https://github.com/meghana885/leetcode/tree/master/0049-group-anagrams) |
 | [0067-add-binary](https://github.com/meghana885/leetcode/tree/master/0067-add-binary) |
 | [0224-basic-calculator](https://github.com/meghana885/leetcode/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/meghana885/leetcode/tree/master/0227-basic-calculator-ii) |
@@ -91,6 +94,7 @@ leetcode
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/meghana885/leetcode/tree/master/0001-two-sum) |
+| [0049-group-anagrams](https://github.com/meghana885/leetcode/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/meghana885/leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/meghana885/leetcode/tree/master/0242-valid-anagram) |
 | [1813-maximum-erasure-value](https://github.com/meghana885/leetcode/tree/master/1813-maximum-erasure-value) |
