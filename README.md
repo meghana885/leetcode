@@ -26,6 +26,7 @@ leetcode
 ## Sorting
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/meghana885/leetcode/tree/master/0242-valid-anagram) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/meghana885/leetcode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 ## Math
 |  |
@@ -46,6 +47,7 @@ leetcode
 | [0067-add-binary](https://github.com/meghana885/leetcode/tree/master/0067-add-binary) |
 | [0224-basic-calculator](https://github.com/meghana885/leetcode/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/meghana885/leetcode/tree/master/0227-basic-calculator-ii) |
+| [0242-valid-anagram](https://github.com/meghana885/leetcode/tree/master/0242-valid-anagram) |
 | [0273-integer-to-english-words](https://github.com/meghana885/leetcode/tree/master/0273-integer-to-english-words) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/meghana885/leetcode/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/meghana885/leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
@@ -87,6 +89,7 @@ leetcode
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/meghana885/leetcode/tree/master/0001-two-sum) |
+| [0242-valid-anagram](https://github.com/meghana885/leetcode/tree/master/0242-valid-anagram) |
 | [1813-maximum-erasure-value](https://github.com/meghana885/leetcode/tree/master/1813-maximum-erasure-value) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/meghana885/leetcode/tree/master/2079-delete-duplicate-folders-in-system) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/meghana885/leetcode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
