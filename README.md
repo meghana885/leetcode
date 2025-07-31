@@ -13,6 +13,7 @@ leetcode
 | [0128-longest-consecutive-sequence](https://github.com/meghana885/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0217-contains-duplicate](https://github.com/meghana885/leetcode/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/meghana885/leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0934-bitwise-ors-of-subarrays](https://github.com/meghana885/leetcode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/meghana885/leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/meghana885/leetcode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1813-maximum-erasure-value](https://github.com/meghana885/leetcode/tree/master/1813-maximum-erasure-value) |
@@ -102,6 +103,7 @@ leetcode
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/meghana885/leetcode/tree/master/0067-add-binary) |
+| [0934-bitwise-ors-of-subarrays](https://github.com/meghana885/leetcode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/meghana885/leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/meghana885/leetcode/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/meghana885/leetcode/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
@@ -184,4 +186,8 @@ leetcode
 |  |
 | ------- |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/meghana885/leetcode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0934-bitwise-ors-of-subarrays](https://github.com/meghana885/leetcode/tree/master/0934-bitwise-ors-of-subarrays) |
 <!---LeetCode Topics End-->
