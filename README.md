@@ -10,6 +10,7 @@ leetcode
 | [0041-first-missing-positive](https://github.com/meghana885/leetcode/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/meghana885/leetcode/tree/master/0049-group-anagrams) |
 | [0066-plus-one](https://github.com/meghana885/leetcode/tree/master/0066-plus-one) |
+| [0118-pascals-triangle](https://github.com/meghana885/leetcode/tree/master/0118-pascals-triangle) |
 | [0128-longest-consecutive-sequence](https://github.com/meghana885/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0217-contains-duplicate](https://github.com/meghana885/leetcode/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/meghana885/leetcode/tree/master/0347-top-k-frequent-elements) |
@@ -189,5 +190,6 @@ leetcode
 ## Dynamic Programming
 |  |
 | ------- |
+| [0118-pascals-triangle](https://github.com/meghana885/leetcode/tree/master/0118-pascals-triangle) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/meghana885/leetcode/tree/master/0934-bitwise-ors-of-subarrays) |
 <!---LeetCode Topics End-->
