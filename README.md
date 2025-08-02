@@ -24,6 +24,7 @@ leetcode
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/meghana885/leetcode/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/meghana885/leetcode/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/meghana885/leetcode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+| [2689-rearranging-fruits](https://github.com/meghana885/leetcode/tree/master/2689-rearranging-fruits) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/meghana885/leetcode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/meghana885/leetcode/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 ## Two Pointers
@@ -43,6 +44,7 @@ leetcode
 | [0242-valid-anagram](https://github.com/meghana885/leetcode/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/meghana885/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/meghana885/leetcode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
+| [2689-rearranging-fruits](https://github.com/meghana885/leetcode/tree/master/2689-rearranging-fruits) |
 ## Math
 |  |
 | ------- |
@@ -123,6 +125,7 @@ leetcode
 | [0347-top-k-frequent-elements](https://github.com/meghana885/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [1813-maximum-erasure-value](https://github.com/meghana885/leetcode/tree/master/1813-maximum-erasure-value) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/meghana885/leetcode/tree/master/2079-delete-duplicate-folders-in-system) |
+| [2689-rearranging-fruits](https://github.com/meghana885/leetcode/tree/master/2689-rearranging-fruits) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/meghana885/leetcode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Hash Function
 |  |
@@ -137,6 +140,7 @@ leetcode
 |  |
 | ------- |
 | [1818-maximum-score-from-removing-substrings](https://github.com/meghana885/leetcode/tree/master/1818-maximum-score-from-removing-substrings) |
+| [2689-rearranging-fruits](https://github.com/meghana885/leetcode/tree/master/2689-rearranging-fruits) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/meghana885/leetcode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Tree
 |  |
