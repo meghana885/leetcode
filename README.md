@@ -67,6 +67,7 @@ leetcode
 | [0224-basic-calculator](https://github.com/meghana885/leetcode/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/meghana885/leetcode/tree/master/0227-basic-calculator-ii) |
 | [0273-integer-to-english-words](https://github.com/meghana885/leetcode/tree/master/0273-integer-to-english-words) |
+| [0826-soup-servings](https://github.com/meghana885/leetcode/tree/master/0826-soup-servings) |
 ## String
 |  |
 | ------- |
@@ -210,6 +211,7 @@ leetcode
 |  |
 | ------- |
 | [0118-pascals-triangle](https://github.com/meghana885/leetcode/tree/master/0118-pascals-triangle) |
+| [0826-soup-servings](https://github.com/meghana885/leetcode/tree/master/0826-soup-servings) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/meghana885/leetcode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/meghana885/leetcode/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 ## Ordered Set
@@ -221,4 +223,8 @@ leetcode
 |  |
 | ------- |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/meghana885/leetcode/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
+## Probability and Statistics
+|  |
+| ------- |
+| [0826-soup-servings](https://github.com/meghana885/leetcode/tree/master/0826-soup-servings) |
 <!---LeetCode Topics End-->
