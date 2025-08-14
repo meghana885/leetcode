@@ -72,6 +72,7 @@ leetcode
 | [0227-basic-calculator-ii](https://github.com/meghana885/leetcode/tree/master/0227-basic-calculator-ii) |
 | [0231-power-of-two](https://github.com/meghana885/leetcode/tree/master/0231-power-of-two) |
 | [0273-integer-to-english-words](https://github.com/meghana885/leetcode/tree/master/0273-integer-to-english-words) |
+| [0326-power-of-three](https://github.com/meghana885/leetcode/tree/master/0326-power-of-three) |
 | [0826-soup-servings](https://github.com/meghana885/leetcode/tree/master/0826-soup-servings) |
 | [0900-reordered-power-of-2](https://github.com/meghana885/leetcode/tree/master/0900-reordered-power-of-2) |
 ## String
@@ -105,6 +106,7 @@ leetcode
 | [0224-basic-calculator](https://github.com/meghana885/leetcode/tree/master/0224-basic-calculator) |
 | [0231-power-of-two](https://github.com/meghana885/leetcode/tree/master/0231-power-of-two) |
 | [0273-integer-to-english-words](https://github.com/meghana885/leetcode/tree/master/0273-integer-to-english-words) |
+| [0326-power-of-three](https://github.com/meghana885/leetcode/tree/master/0326-power-of-three) |
 ## Depth-First Search
 |  |
 | ------- |
