@@ -73,6 +73,7 @@ leetcode
 | [0231-power-of-two](https://github.com/meghana885/leetcode/tree/master/0231-power-of-two) |
 | [0273-integer-to-english-words](https://github.com/meghana885/leetcode/tree/master/0273-integer-to-english-words) |
 | [0326-power-of-three](https://github.com/meghana885/leetcode/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/meghana885/leetcode/tree/master/0342-power-of-four) |
 | [0826-soup-servings](https://github.com/meghana885/leetcode/tree/master/0826-soup-servings) |
 | [0900-reordered-power-of-2](https://github.com/meghana885/leetcode/tree/master/0900-reordered-power-of-2) |
 | [1448-maximum-69-number](https://github.com/meghana885/leetcode/tree/master/1448-maximum-69-number) |
@@ -109,6 +110,7 @@ leetcode
 | [0231-power-of-two](https://github.com/meghana885/leetcode/tree/master/0231-power-of-two) |
 | [0273-integer-to-english-words](https://github.com/meghana885/leetcode/tree/master/0273-integer-to-english-words) |
 | [0326-power-of-three](https://github.com/meghana885/leetcode/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/meghana885/leetcode/tree/master/0342-power-of-four) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -130,6 +132,7 @@ leetcode
 | ------- |
 | [0067-add-binary](https://github.com/meghana885/leetcode/tree/master/0067-add-binary) |
 | [0231-power-of-two](https://github.com/meghana885/leetcode/tree/master/0231-power-of-two) |
+| [0342-power-of-four](https://github.com/meghana885/leetcode/tree/master/0342-power-of-four) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/meghana885/leetcode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/meghana885/leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/meghana885/leetcode/tree/master/2400-minimum-score-after-removals-on-a-tree) |
