@@ -75,6 +75,7 @@ leetcode
 | [0326-power-of-three](https://github.com/meghana885/leetcode/tree/master/0326-power-of-three) |
 | [0826-soup-servings](https://github.com/meghana885/leetcode/tree/master/0826-soup-servings) |
 | [0900-reordered-power-of-2](https://github.com/meghana885/leetcode/tree/master/0900-reordered-power-of-2) |
+| [1448-maximum-69-number](https://github.com/meghana885/leetcode/tree/master/1448-maximum-69-number) |
 ## String
 |  |
 | ------- |
@@ -167,6 +168,7 @@ leetcode
 ## Greedy
 |  |
 | ------- |
+| [1448-maximum-69-number](https://github.com/meghana885/leetcode/tree/master/1448-maximum-69-number) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/meghana885/leetcode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2689-rearranging-fruits](https://github.com/meghana885/leetcode/tree/master/2689-rearranging-fruits) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/meghana885/leetcode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
