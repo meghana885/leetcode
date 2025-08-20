@@ -17,6 +17,7 @@ leetcode
 | [0934-bitwise-ors-of-subarrays](https://github.com/meghana885/leetcode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0940-fruit-into-baskets](https://github.com/meghana885/leetcode/tree/master/0940-fruit-into-baskets) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/meghana885/leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [1402-count-square-submatrices-with-all-ones](https://github.com/meghana885/leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/meghana885/leetcode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1813-maximum-erasure-value](https://github.com/meghana885/leetcode/tree/master/1813-maximum-erasure-value) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/meghana885/leetcode/tree/master/2079-delete-duplicate-folders-in-system) |
@@ -239,6 +240,7 @@ leetcode
 | [0826-soup-servings](https://github.com/meghana885/leetcode/tree/master/0826-soup-servings) |
 | [0867-new-21-game](https://github.com/meghana885/leetcode/tree/master/0867-new-21-game) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/meghana885/leetcode/tree/master/0934-bitwise-ors-of-subarrays) |
+| [1402-count-square-submatrices-with-all-ones](https://github.com/meghana885/leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [2882-ways-to-express-an-integer-as-sum-of-powers](https://github.com/meghana885/leetcode/tree/master/2882-ways-to-express-an-integer-as-sum-of-powers) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/meghana885/leetcode/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 ## Ordered Set
@@ -249,6 +251,7 @@ leetcode
 ## Matrix
 |  |
 | ------- |
+| [1402-count-square-submatrices-with-all-ones](https://github.com/meghana885/leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/meghana885/leetcode/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 ## Probability and Statistics
 |  |
