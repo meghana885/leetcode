@@ -37,6 +37,7 @@ leetcode
 ## Two Pointers
 |  |
 | ------- |
+| [0160-intersection-of-two-linked-lists](https://github.com/meghana885/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0908-middle-of-the-linked-list](https://github.com/meghana885/leetcode/tree/master/0908-middle-of-the-linked-list) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/meghana885/leetcode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 ## Binary Search
@@ -150,6 +151,7 @@ leetcode
 | [0041-first-missing-positive](https://github.com/meghana885/leetcode/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/meghana885/leetcode/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/meghana885/leetcode/tree/master/0128-longest-consecutive-sequence) |
+| [0160-intersection-of-two-linked-lists](https://github.com/meghana885/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0217-contains-duplicate](https://github.com/meghana885/leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/meghana885/leetcode/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/meghana885/leetcode/tree/master/0347-top-k-frequent-elements) |
@@ -264,5 +266,6 @@ leetcode
 | [0002-add-two-numbers](https://github.com/meghana885/leetcode/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/meghana885/leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/meghana885/leetcode/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [0160-intersection-of-two-linked-lists](https://github.com/meghana885/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0908-middle-of-the-linked-list](https://github.com/meghana885/leetcode/tree/master/0908-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
