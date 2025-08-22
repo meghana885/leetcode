@@ -278,4 +278,8 @@ leetcode
 |  |
 | ------- |
 | [1628-count-submatrices-with-all-ones](https://github.com/meghana885/leetcode/tree/master/1628-count-submatrices-with-all-ones) |
+## Database
+|  |
+| ------- |
+| [1908-recyclable-and-low-fat-products](https://github.com/meghana885/leetcode/tree/master/1908-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
