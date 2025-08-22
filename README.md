@@ -289,6 +289,7 @@ leetcode
 | [0620-not-boring-movies](https://github.com/meghana885/leetcode/tree/master/0620-not-boring-movies) |
 | [1258-article-views-i](https://github.com/meghana885/leetcode/tree/master/1258-article-views-i) |
 | [1462-list-the-products-ordered-in-a-period](https://github.com/meghana885/leetcode/tree/master/1462-list-the-products-ordered-in-a-period) |
+| [1811-fix-names-in-a-table](https://github.com/meghana885/leetcode/tree/master/1811-fix-names-in-a-table) |
 | [1827-invalid-tweets](https://github.com/meghana885/leetcode/tree/master/1827-invalid-tweets) |
 | [1908-recyclable-and-low-fat-products](https://github.com/meghana885/leetcode/tree/master/1908-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
