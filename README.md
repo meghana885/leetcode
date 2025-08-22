@@ -287,6 +287,7 @@ leetcode
 | [0584-find-customer-referee](https://github.com/meghana885/leetcode/tree/master/0584-find-customer-referee) |
 | [0595-big-countries](https://github.com/meghana885/leetcode/tree/master/0595-big-countries) |
 | [0620-not-boring-movies](https://github.com/meghana885/leetcode/tree/master/0620-not-boring-movies) |
+| [1182-game-play-analysis-iv](https://github.com/meghana885/leetcode/tree/master/1182-game-play-analysis-iv) |
 | [1258-article-views-i](https://github.com/meghana885/leetcode/tree/master/1258-article-views-i) |
 | [1415-students-and-examinations](https://github.com/meghana885/leetcode/tree/master/1415-students-and-examinations) |
 | [1462-list-the-products-ordered-in-a-period](https://github.com/meghana885/leetcode/tree/master/1462-list-the-products-ordered-in-a-period) |
