@@ -14,6 +14,7 @@ leetcode
 | [0128-longest-consecutive-sequence](https://github.com/meghana885/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0217-contains-duplicate](https://github.com/meghana885/leetcode/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/meghana885/leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0498-diagonal-traverse](https://github.com/meghana885/leetcode/tree/master/0498-diagonal-traverse) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/meghana885/leetcode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0940-fruit-into-baskets](https://github.com/meghana885/leetcode/tree/master/0940-fruit-into-baskets) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/meghana885/leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
@@ -134,6 +135,7 @@ leetcode
 | ------- |
 | [0043-multiply-strings](https://github.com/meghana885/leetcode/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/meghana885/leetcode/tree/master/0067-add-binary) |
+| [0498-diagonal-traverse](https://github.com/meghana885/leetcode/tree/master/0498-diagonal-traverse) |
 | [3790-fruits-into-baskets-ii](https://github.com/meghana885/leetcode/tree/master/3790-fruits-into-baskets-ii) |
 ## Bit Manipulation
 |  |
@@ -262,6 +264,7 @@ leetcode
 ## Matrix
 |  |
 | ------- |
+| [0498-diagonal-traverse](https://github.com/meghana885/leetcode/tree/master/0498-diagonal-traverse) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/meghana885/leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1628-count-submatrices-with-all-ones](https://github.com/meghana885/leetcode/tree/master/1628-count-submatrices-with-all-ones) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/meghana885/leetcode/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
