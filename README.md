@@ -86,6 +86,7 @@ leetcode
 | [0867-new-21-game](https://github.com/meghana885/leetcode/tree/master/0867-new-21-game) |
 | [0900-reordered-power-of-2](https://github.com/meghana885/leetcode/tree/master/0900-reordered-power-of-2) |
 | [1448-maximum-69-number](https://github.com/meghana885/leetcode/tree/master/1448-maximum-69-number) |
+| [3279-alice-and-bob-playing-flower-game](https://github.com/meghana885/leetcode/tree/master/3279-alice-and-bob-playing-flower-game) |
 ## String
 |  |
 | ------- |
