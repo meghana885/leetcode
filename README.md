@@ -8,6 +8,7 @@ leetcode
 | ------- |
 | [0001-two-sum](https://github.com/meghana885/leetcode/tree/master/0001-two-sum) |
 | [0036-valid-sudoku](https://github.com/meghana885/leetcode/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/meghana885/leetcode/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/meghana885/leetcode/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/meghana885/leetcode/tree/master/0049-group-anagrams) |
 | [0066-plus-one](https://github.com/meghana885/leetcode/tree/master/0066-plus-one) |
@@ -159,6 +160,7 @@ leetcode
 | [0012-integer-to-roman](https://github.com/meghana885/leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/meghana885/leetcode/tree/master/0013-roman-to-integer) |
 | [0036-valid-sudoku](https://github.com/meghana885/leetcode/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/meghana885/leetcode/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/meghana885/leetcode/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/meghana885/leetcode/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/meghana885/leetcode/tree/master/0128-longest-consecutive-sequence) |
@@ -243,6 +245,7 @@ leetcode
 ## Backtracking
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/meghana885/leetcode/tree/master/0037-sudoku-solver) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/meghana885/leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 ## Brainteaser
 |  |
@@ -269,6 +272,7 @@ leetcode
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/meghana885/leetcode/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/meghana885/leetcode/tree/master/0037-sudoku-solver) |
 | [0498-diagonal-traverse](https://github.com/meghana885/leetcode/tree/master/0498-diagonal-traverse) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/meghana885/leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1628-count-submatrices-with-all-ones](https://github.com/meghana885/leetcode/tree/master/1628-count-submatrices-with-all-ones) |
