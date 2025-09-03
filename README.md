@@ -35,6 +35,7 @@ leetcode
 | [2529-range-product-queries-of-powers](https://github.com/meghana885/leetcode/tree/master/2529-range-product-queries-of-powers) |
 | [2689-rearranging-fruits](https://github.com/meghana885/leetcode/tree/master/2689-rearranging-fruits) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/meghana885/leetcode/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
+| [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/meghana885/leetcode/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/meghana885/leetcode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/meghana885/leetcode/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/meghana885/leetcode/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
@@ -67,6 +68,7 @@ leetcode
 | [0900-reordered-power-of-2](https://github.com/meghana885/leetcode/tree/master/0900-reordered-power-of-2) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/meghana885/leetcode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2689-rearranging-fruits](https://github.com/meghana885/leetcode/tree/master/2689-rearranging-fruits) |
+| [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/meghana885/leetcode/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/meghana885/leetcode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 ## Math
 |  |
@@ -90,6 +92,7 @@ leetcode
 | [0867-new-21-game](https://github.com/meghana885/leetcode/tree/master/0867-new-21-game) |
 | [0900-reordered-power-of-2](https://github.com/meghana885/leetcode/tree/master/0900-reordered-power-of-2) |
 | [1448-maximum-69-number](https://github.com/meghana885/leetcode/tree/master/1448-maximum-69-number) |
+| [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/meghana885/leetcode/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/meghana885/leetcode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3279-alice-and-bob-playing-flower-game](https://github.com/meghana885/leetcode/tree/master/3279-alice-and-bob-playing-flower-game) |
 ## String
@@ -212,6 +215,7 @@ leetcode
 | ------- |
 | [0900-reordered-power-of-2](https://github.com/meghana885/leetcode/tree/master/0900-reordered-power-of-2) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/meghana885/leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+| [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/meghana885/leetcode/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/meghana885/leetcode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/meghana885/leetcode/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/meghana885/leetcode/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
@@ -322,5 +326,6 @@ leetcode
 ## Geometry
 |  |
 | ------- |
+| [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/meghana885/leetcode/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/meghana885/leetcode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 <!---LeetCode Topics End-->
