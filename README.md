@@ -40,6 +40,7 @@ leetcode
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/meghana885/leetcode/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/meghana885/leetcode/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/meghana885/leetcode/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
+| [3744-minimum-operations-to-make-array-elements-zero](https://github.com/meghana885/leetcode/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/meghana885/leetcode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/meghana885/leetcode/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 | [3790-fruits-into-baskets-ii](https://github.com/meghana885/leetcode/tree/master/3790-fruits-into-baskets-ii) |
@@ -95,6 +96,7 @@ leetcode
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/meghana885/leetcode/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/meghana885/leetcode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3279-alice-and-bob-playing-flower-game](https://github.com/meghana885/leetcode/tree/master/3279-alice-and-bob-playing-flower-game) |
+| [3744-minimum-operations-to-make-array-elements-zero](https://github.com/meghana885/leetcode/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 | [3830-find-closest-person](https://github.com/meghana885/leetcode/tree/master/3830-find-closest-person) |
 ## String
 |  |
@@ -160,6 +162,7 @@ leetcode
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/meghana885/leetcode/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/meghana885/leetcode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2529-range-product-queries-of-powers](https://github.com/meghana885/leetcode/tree/master/2529-range-product-queries-of-powers) |
+| [3744-minimum-operations-to-make-array-elements-zero](https://github.com/meghana885/leetcode/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 ## Hash Table
 |  |
 | ------- |
