@@ -33,6 +33,7 @@ leetcode
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/meghana885/leetcode/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/meghana885/leetcode/tree/master/2316-count-hills-and-valleys-in-an-array) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/meghana885/leetcode/tree/master/2400-minimum-score-after-removals-on-a-tree) |
+| [2429-design-a-food-rating-system](https://github.com/meghana885/leetcode/tree/master/2429-design-a-food-rating-system) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/meghana885/leetcode/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/meghana885/leetcode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2529-range-product-queries-of-powers](https://github.com/meghana885/leetcode/tree/master/2529-range-product-queries-of-powers) |
@@ -122,6 +123,7 @@ leetcode
 | [1818-maximum-score-from-removing-substrings](https://github.com/meghana885/leetcode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/meghana885/leetcode/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/meghana885/leetcode/tree/master/2346-largest-3-same-digit-number-in-string) |
+| [2429-design-a-food-rating-system](https://github.com/meghana885/leetcode/tree/master/2429-design-a-food-rating-system) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/meghana885/leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Stack
 |  |
@@ -195,6 +197,7 @@ leetcode
 | [1813-maximum-erasure-value](https://github.com/meghana885/leetcode/tree/master/1813-maximum-erasure-value) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/meghana885/leetcode/tree/master/1834-minimum-number-of-people-to-teach) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/meghana885/leetcode/tree/master/2079-delete-duplicate-folders-in-system) |
+| [2429-design-a-food-rating-system](https://github.com/meghana885/leetcode/tree/master/2429-design-a-food-rating-system) |
 | [2689-rearranging-fruits](https://github.com/meghana885/leetcode/tree/master/2689-rearranging-fruits) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/meghana885/leetcode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/meghana885/leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
@@ -253,6 +256,7 @@ leetcode
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/meghana885/leetcode/tree/master/0347-top-k-frequent-elements) |
+| [2429-design-a-food-rating-system](https://github.com/meghana885/leetcode/tree/master/2429-design-a-food-rating-system) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -297,6 +301,7 @@ leetcode
 ## Ordered Set
 |  |
 | ------- |
+| [2429-design-a-food-rating-system](https://github.com/meghana885/leetcode/tree/master/2429-design-a-food-rating-system) |
 | [3790-fruits-into-baskets-ii](https://github.com/meghana885/leetcode/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/meghana885/leetcode/tree/master/3791-fruits-into-baskets-iii) |
 ## Matrix
@@ -359,4 +364,8 @@ leetcode
 |  |
 | ------- |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/meghana885/leetcode/tree/master/2307-replace-non-coprime-numbers-in-array) |
+## Design
+|  |
+| ------- |
+| [2429-design-a-food-rating-system](https://github.com/meghana885/leetcode/tree/master/2429-design-a-food-rating-system) |
 <!---LeetCode Topics End-->
