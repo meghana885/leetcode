@@ -199,6 +199,7 @@ leetcode
 | [2079-delete-duplicate-folders-in-system](https://github.com/meghana885/leetcode/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2429-design-a-food-rating-system](https://github.com/meghana885/leetcode/tree/master/2429-design-a-food-rating-system) |
 | [2689-rearranging-fruits](https://github.com/meghana885/leetcode/tree/master/2689-rearranging-fruits) |
+| [3678-design-task-manager](https://github.com/meghana885/leetcode/tree/master/3678-design-task-manager) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/meghana885/leetcode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/meghana885/leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Hash Function
@@ -257,6 +258,7 @@ leetcode
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/meghana885/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [2429-design-a-food-rating-system](https://github.com/meghana885/leetcode/tree/master/2429-design-a-food-rating-system) |
+| [3678-design-task-manager](https://github.com/meghana885/leetcode/tree/master/3678-design-task-manager) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -302,6 +304,7 @@ leetcode
 |  |
 | ------- |
 | [2429-design-a-food-rating-system](https://github.com/meghana885/leetcode/tree/master/2429-design-a-food-rating-system) |
+| [3678-design-task-manager](https://github.com/meghana885/leetcode/tree/master/3678-design-task-manager) |
 | [3790-fruits-into-baskets-ii](https://github.com/meghana885/leetcode/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/meghana885/leetcode/tree/master/3791-fruits-into-baskets-iii) |
 ## Matrix
@@ -368,4 +371,5 @@ leetcode
 |  |
 | ------- |
 | [2429-design-a-food-rating-system](https://github.com/meghana885/leetcode/tree/master/2429-design-a-food-rating-system) |
+| [3678-design-task-manager](https://github.com/meghana885/leetcode/tree/master/3678-design-task-manager) |
 <!---LeetCode Topics End-->
