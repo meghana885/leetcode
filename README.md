@@ -350,6 +350,7 @@ leetcode
 | [0620-not-boring-movies](https://github.com/meghana885/leetcode/tree/master/0620-not-boring-movies) |
 | [1182-game-play-analysis-iv](https://github.com/meghana885/leetcode/tree/master/1182-game-play-analysis-iv) |
 | [1258-article-views-i](https://github.com/meghana885/leetcode/tree/master/1258-article-views-i) |
+| [1292-immediate-food-delivery-ii](https://github.com/meghana885/leetcode/tree/master/1292-immediate-food-delivery-ii) |
 | [1317-monthly-transactions-i](https://github.com/meghana885/leetcode/tree/master/1317-monthly-transactions-i) |
 | [1338-queries-quality-and-percentage](https://github.com/meghana885/leetcode/tree/master/1338-queries-quality-and-percentage) |
 | [1415-students-and-examinations](https://github.com/meghana885/leetcode/tree/master/1415-students-and-examinations) |
