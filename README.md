@@ -49,6 +49,7 @@ leetcode
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/meghana885/leetcode/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 | [3790-fruits-into-baskets-ii](https://github.com/meghana885/leetcode/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/meghana885/leetcode/tree/master/3791-fruits-into-baskets-iii) |
+| [3797-design-spreadsheet](https://github.com/meghana885/leetcode/tree/master/3797-design-spreadsheet) |
 ## Two Pointers
 |  |
 | ------- |
@@ -124,6 +125,7 @@ leetcode
 | [2079-delete-duplicate-folders-in-system](https://github.com/meghana885/leetcode/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/meghana885/leetcode/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [2429-design-a-food-rating-system](https://github.com/meghana885/leetcode/tree/master/2429-design-a-food-rating-system) |
+| [3797-design-spreadsheet](https://github.com/meghana885/leetcode/tree/master/3797-design-spreadsheet) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/meghana885/leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Stack
 |  |
@@ -201,6 +203,7 @@ leetcode
 | [2689-rearranging-fruits](https://github.com/meghana885/leetcode/tree/master/2689-rearranging-fruits) |
 | [3678-design-task-manager](https://github.com/meghana885/leetcode/tree/master/3678-design-task-manager) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/meghana885/leetcode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
+| [3797-design-spreadsheet](https://github.com/meghana885/leetcode/tree/master/3797-design-spreadsheet) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/meghana885/leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Hash Function
 |  |
@@ -318,6 +321,7 @@ leetcode
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/meghana885/leetcode/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/meghana885/leetcode/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/meghana885/leetcode/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
+| [3797-design-spreadsheet](https://github.com/meghana885/leetcode/tree/master/3797-design-spreadsheet) |
 ## Probability and Statistics
 |  |
 | ------- |
@@ -372,4 +376,5 @@ leetcode
 | ------- |
 | [2429-design-a-food-rating-system](https://github.com/meghana885/leetcode/tree/master/2429-design-a-food-rating-system) |
 | [3678-design-task-manager](https://github.com/meghana885/leetcode/tree/master/3678-design-task-manager) |
+| [3797-design-spreadsheet](https://github.com/meghana885/leetcode/tree/master/3797-design-spreadsheet) |
 <!---LeetCode Topics End-->
