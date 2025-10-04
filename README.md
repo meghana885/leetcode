@@ -7,6 +7,7 @@ leetcode
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/meghana885/leetcode/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/meghana885/leetcode/tree/master/0011-container-with-most-water) |
 | [0036-valid-sudoku](https://github.com/meghana885/leetcode/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/meghana885/leetcode/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/meghana885/leetcode/tree/master/0041-first-missing-positive) |
@@ -61,6 +62,7 @@ leetcode
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/meghana885/leetcode/tree/master/0011-container-with-most-water) |
 | [0160-intersection-of-two-linked-lists](https://github.com/meghana885/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0165-compare-version-numbers](https://github.com/meghana885/leetcode/tree/master/0165-compare-version-numbers) |
 | [0908-middle-of-the-linked-list](https://github.com/meghana885/leetcode/tree/master/0908-middle-of-the-linked-list) |
@@ -246,6 +248,7 @@ leetcode
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/meghana885/leetcode/tree/master/0011-container-with-most-water) |
 | [1018-largest-perimeter-triangle](https://github.com/meghana885/leetcode/tree/master/1018-largest-perimeter-triangle) |
 | [1448-maximum-69-number](https://github.com/meghana885/leetcode/tree/master/1448-maximum-69-number) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/meghana885/leetcode/tree/master/1818-maximum-score-from-removing-substrings) |
