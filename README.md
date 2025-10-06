@@ -21,6 +21,7 @@ leetcode
 | [0407-trapping-rain-water-ii](https://github.com/meghana885/leetcode/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/meghana885/leetcode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0498-diagonal-traverse](https://github.com/meghana885/leetcode/tree/master/0498-diagonal-traverse) |
+| [0794-swim-in-rising-water](https://github.com/meghana885/leetcode/tree/master/0794-swim-in-rising-water) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/meghana885/leetcode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0940-fruit-into-baskets](https://github.com/meghana885/leetcode/tree/master/0940-fruit-into-baskets) |
 | [1018-largest-perimeter-triangle](https://github.com/meghana885/leetcode/tree/master/1018-largest-perimeter-triangle) |
@@ -71,6 +72,7 @@ leetcode
 ## Binary Search
 |  |
 | ------- |
+| [0794-swim-in-rising-water](https://github.com/meghana885/leetcode/tree/master/0794-swim-in-rising-water) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/meghana885/leetcode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/meghana885/leetcode/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/meghana885/leetcode/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
@@ -171,6 +173,7 @@ leetcode
 |  |
 | ------- |
 | [0417-pacific-atlantic-water-flow](https://github.com/meghana885/leetcode/tree/master/0417-pacific-atlantic-water-flow) |
+| [0794-swim-in-rising-water](https://github.com/meghana885/leetcode/tree/master/0794-swim-in-rising-water) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/meghana885/leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/meghana885/leetcode/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 ## Trie
@@ -292,6 +295,7 @@ leetcode
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/meghana885/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0407-trapping-rain-water-ii](https://github.com/meghana885/leetcode/tree/master/0407-trapping-rain-water-ii) |
+| [0794-swim-in-rising-water](https://github.com/meghana885/leetcode/tree/master/0794-swim-in-rising-water) |
 | [2023-design-movie-rental-system](https://github.com/meghana885/leetcode/tree/master/2023-design-movie-rental-system) |
 | [2429-design-a-food-rating-system](https://github.com/meghana885/leetcode/tree/master/2429-design-a-food-rating-system) |
 | [3678-design-task-manager](https://github.com/meghana885/leetcode/tree/master/3678-design-task-manager) |
@@ -314,6 +318,7 @@ leetcode
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/meghana885/leetcode/tree/master/0128-longest-consecutive-sequence) |
+| [0794-swim-in-rising-water](https://github.com/meghana885/leetcode/tree/master/0794-swim-in-rising-water) |
 ## Backtracking
 |  |
 | ------- |
@@ -356,6 +361,7 @@ leetcode
 | [0407-trapping-rain-water-ii](https://github.com/meghana885/leetcode/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/meghana885/leetcode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0498-diagonal-traverse](https://github.com/meghana885/leetcode/tree/master/0498-diagonal-traverse) |
+| [0794-swim-in-rising-water](https://github.com/meghana885/leetcode/tree/master/0794-swim-in-rising-water) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/meghana885/leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1628-count-submatrices-with-all-ones](https://github.com/meghana885/leetcode/tree/master/1628-count-submatrices-with-all-ones) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/meghana885/leetcode/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
@@ -433,4 +439,5 @@ leetcode
 | ------- |
 | [0407-trapping-rain-water-ii](https://github.com/meghana885/leetcode/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/meghana885/leetcode/tree/master/0417-pacific-atlantic-water-flow) |
+| [0794-swim-in-rising-water](https://github.com/meghana885/leetcode/tree/master/0794-swim-in-rising-water) |
 <!---LeetCode Topics End-->
